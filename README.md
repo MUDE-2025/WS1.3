@@ -1,8 +1,8 @@
-# Workshop 1.3
+# Workshop 1.3 'Catchy title'
 
 *[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
 
-*Written by: `<author(s)>`*
+*Written by: Ronald Brinkgeve, Anna Störiko*
 
 *Due: `<day of week>`, `<month>` `<day>`, `<year>`.*
 
